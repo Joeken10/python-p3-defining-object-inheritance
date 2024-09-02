@@ -4,3 +4,5 @@ class Vehicle:
         self.wheel_number = wheel_number
         pass
     
+    def go(self):
+        return "vrrrrrrrooom!"
